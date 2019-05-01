@@ -130,3 +130,7 @@ A MCP3221 I2C analog-to-digital converter monitors the voltage at the output of 
 
 The IoT Node is designed to fit a 6 x 4.5 x 3 inch waterproof enclosure. A hinged lid provides easy access to the IoT Node for setup and maintenance. The enclosure includes holes for input and output cabling. A combination of cable glands, hole plugs, or vents may be used.
 
+### Hardware Files and Schematics
+
+[https://github.com/sentientthings/IoT-Node](https://github.com/sentientthings/IoT-Node)
+
