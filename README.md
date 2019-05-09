@@ -23,6 +23,10 @@ Some of the most important features of the IoT Node include
 * Low power capability with communication modules operating in sleep mode.
 * A rugged watertight enclosure.
 
+### Block Diagram
+
+![](.gitbook/assets/iotnode-diagram.png)
+
 ### Communications Modules
 
 The Adafruit Feather and new Feather-based Particle cellular, Wi-Fi, and mesh modules may be plugged directly into the IoT Node header. Making the communication module a separate plug in provides significantly flexibility and enables the use of the latest and greatest communication module in a market that is changing very rapidly.
