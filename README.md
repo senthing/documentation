@@ -18,8 +18,8 @@ Some of the most important features of the IoT Node include
 * A real-time-clock for time keeping and for scheduled power control of the communication module and peripherals.
 * A watch dog timer for reliability.
 * Pluggable expansion headers for communication modules and for adapter boards.
-* Screw terminals that breakout the pins of the expansion headers for flexible I/O.
 * Header compatibility with the popular Adafruit Feather boards enabling the use of a wide range of peripherals and communication modules including the new Particle Wi-Fi, cellular, and mesh modules.
+* Input and Output connectors using RJ-45 sockets with standard pinouts for easy connection of sensors and actuators.
 * Low power capability with communication modules operating in sleep mode.
 * A rugged watertight enclosure.
 
