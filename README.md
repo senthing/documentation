@@ -35,11 +35,11 @@ The Adafruit Feather and new Feather-based Particle cellular, Wi-Fi, and mesh mo
 
 Some commonly available Feather compatible communication boards include the Particle Wi-Fi, cellular \(Boron LTE CAT-M1 and 2G/3G\), and mesh,
 
-![](.gitbook/assets/boron-angle.jpg)
+![](.gitbook/assets/boron.JPG)
 
 and the Adafruit series of Wi-Fi and cellular Feather boards including the Adafruit ESP32 Feather Board,
 
-![](.gitbook/assets/3591-00.jpg)
+![](.gitbook/assets/adafruit-esp32-feather.JPG)
 
 Feather M0 WiFi, Feather 32u4 FONA, STM32F205 with Cypress WICED WiFi, and the Feather 32u4 RFM96 LoRa among others.
 
