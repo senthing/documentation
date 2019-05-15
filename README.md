@@ -69,7 +69,7 @@ The IoT Node header is a superset of the Adafruit Feather header with the follow
 
 The IoTNode includes three RJ-45 IO connectors with the followings pinouts:
 
-![Sentient Things Input Output connector pinout](.gitbook/assets/sentientconnector.JPG)
+![](.gitbook/assets/sentientconnector.JPG)
 
 The I2C bus on the connectors are buffered using a TCA4311 buffer to prevent faults on the external I2C bus from affecting the internal I2C bus that communicates with devices on the IoT Node board. The GPIO pins are connected to the internal MCP23018 expander - see the schematic for details.
 
