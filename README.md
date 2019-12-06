@@ -142,5 +142,11 @@ The IoT Node is designed to fit a 6 x 4.5 x 3 inch waterproof enclosure. A hinge
 
 ### Hardware Files and Schematics
 
-[https://github.com/sentientthings/IoT-Node](https://github.com/sentientthings/IoT-Node)
+{% embed url="https://github.com/sentientthings/IoT-Node" %}
+
+### Library
+
+[GitHub library for the IoT Node.](https://github.com/sentientthings/IoTNode)
+
+
 
